@@ -64,6 +64,7 @@ li button {
 
 li button:hover {
     background-color: #004d40; 
+}
 
 .total-price {
     font-size: 1.5em;
